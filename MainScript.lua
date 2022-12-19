@@ -1,5 +1,5 @@
 local library = nil
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ManOnTopain/WaFWAwWaSW/main/astolfo.lua', true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Fazedrab/astolfo/main/Mainguilibrary.lua', true))()
 
 
 
