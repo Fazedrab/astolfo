@@ -899,7 +899,7 @@ local modules = {
 
 
 
-		module.Whitelisted = {"DebugWareCreator", "", "", ""}
+		module.Whitelisted = {"DebugWareCreator", "RektByDebugWare", "AdorschFischler", "ez_Ltrash90"}
 
 
 
